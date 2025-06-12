@@ -1,0 +1,5 @@
+D 'ebct': Entropy reweighting to create balanced samples for continuous treatments Use ebct With STATA 19
+D
+F ebct.ado
+F ebct_est.ado
+F ebct.sthlp
